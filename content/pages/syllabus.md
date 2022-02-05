@@ -40,28 +40,194 @@ We will also use online resources for information sharing, and to promote discus
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Implementation Puzzle | 10% |
-| Mid-term | 25% |
-| Final Paper | 40% |
-| Class Participation | 25% |
-| Extra Credit (Online Activities) |  {{< br >}}{{< br >}} An additional level grade to the final grade (i.e., a B becomes a B+) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Implementation Puzzle
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Extra Credit (Online Activities)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+An additional level grade to the final grade (i.e., a B becomes a B+)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grade Levels
 ------------
 
-| GRADES | PERCENTAGES |
-| --- | --- |
-| A | 93-100% |
-| A- | 90-92% |
-| B+ | 87-89% |
-| B | 83-86% |
-| B- | 80-82% |
-| C+ | 77-79% |
-| C | 73-76% |
-| C- | 70-72% |
-| D+ | 67-69% |
-| D | 63-66% |
-| D- | 60-62% |
-| F | below 60
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GRADES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+93-100%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A-
+{{< tdclose >}}
+{{< tdopen >}}
+90-92%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B+
+{{< tdclose >}}
+{{< tdopen >}}
+87-89%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+83-86%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B-
+{{< tdclose >}}
+{{< tdopen >}}
+80-82%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C+
+{{< tdclose >}}
+{{< tdopen >}}
+77-79%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+73-76%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C-
+{{< tdclose >}}
+{{< tdopen >}}
+70-72%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D+
+{{< tdclose >}}
+{{< tdopen >}}
+67-69%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D
+{{< tdclose >}}
+{{< tdopen >}}
+63-66%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D-
+{{< tdclose >}}
+{{< tdopen >}}
+60-62%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+below 60
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
