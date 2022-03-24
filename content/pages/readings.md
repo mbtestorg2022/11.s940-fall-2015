@@ -233,7 +233,7 @@ Krumholz, Norman. Chapter 14 in _Making Equity Planning Work: Leadership in the 
 {{< tdopen >}}
 
 
-Natsios, Andrew. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Clash of the Counter-bureaucracy and Development." (PDF)](https://www.cgdev.org/publication/clash-counter-bureaucracy-and-development) _Center for Global Development_, 2010.
+Natsios, Andrew. ["The Clash of the Counter-bureaucracy and Development." (PDF)](https://www.cgdev.org/publication/clash-counter-bureaucracy-and-development) _Center for Global Development_, 2010.
 
 Brooks, Michael P. "The Political Savvy Planner." In _Planning Theory for Practitioners_. APA Planners Press, 2002. ISBN: 9781884829598.
 
@@ -297,7 +297,7 @@ Jain, Pankaj S. "[Managing for Success: Lessons from Asian Development Programs]
 
 Brinkerhoff, Derick W., and Marcus D. Ingle. "[Integrating Blueprint and Process: A Structured Flexibility Approach to Development Management](http://dx.doi.org/10.1002/pad.4230090503)." _Public Administration and Development_ 9, no. 5 (1989): 487–503.
 
-Graziano da Silva, Jose F., Mauro Eduardo Del Grossi, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Fome Zero (Zero Hunger Program)." (PDF - 1.7MB)](http://www.fao.org/docrep/016/i3023e/i3023e.pdf) _Ministry of Agrarian Development_ (2013).
+Graziano da Silva, Jose F., Mauro Eduardo Del Grossi, et al. ["Fome Zero (Zero Hunger Program)." (PDF - 1.7MB)](http://www.fao.org/docrep/016/i3023e/i3023e.pdf) _Ministry of Agrarian Development_ (2013).
 
 Levy, Santiago. _Progress Against Poverty: Sustaining Mexico's Progresa-Oportunidades Program_. Brookings Institution, 2007. ISBN: 9780815752219.
 
@@ -315,7 +315,7 @@ Modes of evaluation: What is useful knowledge for practitioners?
 {{< tdopen >}}
 
 
-Sabel, Charles. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Learning by Monitoring: The Institutions of Economic Development." (PDF - 4.8MB)](http://www2.law.columbia.edu/sabel/papers/Learning%20by%20Monitoring.pdf) 1993.
+Sabel, Charles. ["Learning by Monitoring: The Institutions of Economic Development." (PDF - 4.8MB)](http://www2.law.columbia.edu/sabel/papers/Learning%20by%20Monitoring.pdf) 1993.
 
 Smelser, Neil, and Richard Swedberg, eds. _Handbook of Economic Sociology_. Princeton University Press, 2005. ISBN: 9780691121260.
 
